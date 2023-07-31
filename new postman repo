@@ -1,0 +1,4 @@
+open site
+fill username
+fill password
+access site
